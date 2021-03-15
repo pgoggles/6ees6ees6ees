@@ -12,4 +12,4 @@ class HoneyMakerBee extends Bee {
   giveHoney () {
     this.honeyPot --;
   }
-};
+}
