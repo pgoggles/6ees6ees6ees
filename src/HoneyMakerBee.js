@@ -3,7 +3,6 @@ class HoneyMakerBee extends Bee {
     super();
     this.age = 10;
     this.job = 'make honey';
-    this.color = 'yellow';
     this.honeyPot = 0;
   }
   makeHoney () {
